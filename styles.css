@@ -9,7 +9,7 @@ body {
   padding: 0;
 }
 
-.your__class__Container .visually-hidden {
+.aeno-hd2 .visually-hidden {
   position: absolute;
   width: 1px;
   height: 1px;
@@ -22,41 +22,279 @@ body {
   overflow: hidden;
 }
 
-.your__class__Container img {
+.aeno-hd2 img {
   margin: 0;
 }
 
-.your__class__Container p {
-  padding: 0;
-  margin: 0;
-}
-
-.your__class__Container h3 {
+.aeno-hd2 p {
   padding: 0;
   margin: 0;
 }
 
-.your__class__Container ul {
+.aeno-hd2 h3,
+h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.aeno-hd2 ul {
   padding: 0;
 }
 
-.your__class__Container ul li {
+.aeno-hd2 ul li {
   padding: 0;
 }
 
-.your__class__Container {
+.aeno-hd2 {
   overflow: hidden;
+  display: grid;
+  gap: 1rem;
 }
 
-.your__class__Container div {
+.aeno-hd2 div {
+  margin: 0;
   padding: 0;
   width: initial;
 }
 
-.your__class__Container br {
+.aeno-hd2 br {
   display: block;
 }
 
 .product__body .el-tabs__header {
   z-index: 6;
+}
+
+/* MAIN STYLES */
+
+.aeno-hd2 .hero {
+  padding: 1.5rem;
+  background-image: linear-gradient(
+    21deg,
+    rgb(123, 164, 156) 0%,
+    rgb(123, 164, 156) 1%,
+    rgb(82, 122, 114) 100%
+  );
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .hero-title {
+  color: rgb(255, 255, 255);
+  display: grid;
+  gap: 1rem;
+}
+.aeno-hd2 .hero-main-title {
+  font-weight: 900;
+  font-size: 26px;
+}
+.aeno-hd2 .hero-second-title {
+  font-weight: 400;
+  font-size: 20px;
+}
+.aeno-hd2 .hero-description {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 0 auto;
+  font-size: 16px;
+  line-height: 120%;
+  color: rgb(255, 255, 255);
+}
+.aeno-hd2 .hero-description-item {
+  width: 48%;
+  display: grid;
+  justify-items: center;
+  gap: 0.5rem;
+}
+.aeno-hd2 .hero-description-undertitle {
+  text-align: center;
+}
+.aeno-hd2 .hero-image {
+  margin: 0 auto;
+}
+
+.aeno-hd2 .travel {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+
+.aeno-hd2 .travel-title-container {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.aeno-hd2 .travel-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.aeno-hd2 .travel-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .travel-image {
+  width: 100%;
+}
+
+.aeno-hd2 .ionic-technology {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .ionic-technology-container {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.aeno-hd2 .ionic-technology-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.aeno-hd2 .ionic-technology-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .ionic-technology-image {
+  width: 100%;
+}
+.aeno-hd2 .modes {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .modes-container {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.aeno-hd2 .modes-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.aeno-hd2 .modes-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .modes-image {
+  width: 100%;
+}
+.aeno-hd2 .compact {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .compact-container {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.aeno-hd2 .compact-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.aeno-hd2 .compact-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .compact-image {
+  width: 100%;
+}
+.aeno-hd2 .hair-types {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .hair-types-container {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.aeno-hd2 .hair-types-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.aeno-hd2 .hair-type-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .hair-type-image {
+  width: 100%;
+}
+.aeno-hd2 .protection {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .protection-container {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.aeno-hd2 .protection-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.aeno-hd2 .protection-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .protection-image {
+  width: 100%;
+}
+.aeno-hd2 .accessories {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .accessories-container {
+  color: black;
+  display: grid;
+  gap: 1rem;
+  text-align: center;
+}
+.aeno-hd2 .accessories-title {
+  font-size: 24px;
+  font-weight: 600;
+}
+.aeno-hd2 .accessories-description {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .accessories-image {
+  width: 100%;
+}
+.aeno-hd2 .specifications {
+  padding: 1rem;
+  display: grid;
+  gap: 2rem;
+}
+.aeno-hd2 .specifications-title {
+  font-size: 26px;
+  font-weight: 600;
+  text-align: center;
+}
+.aeno-hd2 .specification-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+.aeno-hd2 .specification-list-item {
+  width: 48%;
+}
+.aeno-hd2 .specification-item-title {
+  font-size: 18px;
+  font-weight: 400;
+}
+.aeno-hd2 .specification-item-description {
+  font-size: 24px;
+  font-weight: 600;
 }
