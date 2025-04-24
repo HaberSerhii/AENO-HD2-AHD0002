@@ -369,10 +369,10 @@ h2 {
     text-align: left;
   }
   .aeno-hd2 .travel-title {
-    font-size: 24px;
+    font-size: 20px;
   }
   .aeno-hd2 .travel-description {
-    font-size: 18px;
+    font-size: 12px;
   }
 
   .aeno-hd2 .ionic-technology {
@@ -430,10 +430,10 @@ h2 {
     text-align: left;
   }
   .aeno-hd2 .compact-title {
-    font-size: 24px;
+    font-size: 20px;
   }
   .aeno-hd2 .compact-description {
-    font-size: 18px;
+    font-size: 12px;
   }
   .aeno-hd2 .compact-image {
     width: 100%;
@@ -515,7 +515,7 @@ h2 {
     gap: 2rem;
   }
   .aeno-hd2 .specifications-title {
-    font-size: 26px;
+    font-size: 20px;
     font-weight: 600;
     text-align: center;
   }
@@ -530,11 +530,11 @@ h2 {
     text-align: center;
   }
   .aeno-hd2 .specification-item-title {
-    font-size: 18px;
+    font-size: 12px;
     font-weight: 400;
   }
   .aeno-hd2 .specification-item-description {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 600;
   }
 }
@@ -584,10 +584,10 @@ h2 {
     text-align: left;
   }
   .aeno-hd2 .travel-title {
-    font-size: 32px;
+    font-size: 24px;
   }
   .aeno-hd2 .travel-description {
-    font-size: 24px;
+    font-size: 16px;
   }
 
   .aeno-hd2 .ionic-technology {
@@ -623,10 +623,10 @@ h2 {
   }
 
   .aeno-hd2 .compact-title {
-    font-size: 26px;
+    font-size: 24px;
   }
   .aeno-hd2 .compact-description {
-    font-size: 20px;
+    font-size: 16px;
   }
 
   .aeno-hd2 .hair-types {
@@ -668,17 +668,17 @@ h2 {
     gap: 2.5rem;
   }
   .aeno-hd2 .specifications-title {
-    font-size: 32px;
+    font-size: 24px;
   }
   .aeno-hd2 .specification-list {
     gap: 2rem;
   }
 
   .aeno-hd2 .specification-item-title {
-    font-size: 24px;
+    font-size: 16px;
   }
   .aeno-hd2 .specification-item-description {
-    font-size: 32px;
+    font-size: 24px;
   }
 }
 
@@ -718,10 +718,10 @@ h2 {
     gap: 3rem;
   }
   .aeno-hd2 .travel-title {
-    font-size: 48px;
+    font-size: 32px;
   }
   .aeno-hd2 .travel-description {
-    font-size: 32px;
+    font-size: 24px;
   }
 
   .aeno-hd2 .ionic-technology {
@@ -757,10 +757,10 @@ h2 {
   }
 
   .aeno-hd2 .compact-title {
-    font-size: 48px;
+    font-size: 32px;
   }
   .aeno-hd2 .compact-description {
-    font-size: 32px;
+    font-size: 24px;
   }
 
   .aeno-hd2 .hair-types {
@@ -802,16 +802,16 @@ h2 {
     gap: 3rem;
   }
   .aeno-hd2 .specifications-title {
-    font-size: 48px;
+    font-size: 32px;
   }
   .aeno-hd2 .specification-list {
     gap: 3rem;
   }
 
   .aeno-hd2 .specification-item-title {
-    font-size: 32px;
+    font-size: 24px;
   }
   .aeno-hd2 .specification-item-description {
-    font-size: 48px;
+    font-size: 32px;
   }
 }
